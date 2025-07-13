@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 // Importa tus componentes desde archivos separados
-import DistributionChart from './components/DistributionChart'; // Importa el componente DistributionChart
-import PredictionModel from './components/PredictionModel'; // Importa el componente PredictionModel
+import DistributionChart from './components/DistributionChart'; // Importa el componente DistributionChart (actualizado)
+import PredictionModel from './components/PredictionModel'; // Importa el componente PredictionModel (actualizado)
 
 // Main application component
 function App() {
